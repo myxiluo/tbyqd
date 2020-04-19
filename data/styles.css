@@ -1,0 +1,479 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._连接线 {
+}
+.table_cell {
+}
+.box_3 {
+}
+.horizontal_line {
+}
+._图片 {
+  color:#000000;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.box_1 {
+}
+._分割线 {
+}
+._次按钮（动作列表） {
+  font-family:'Heiti SC Light', 'Heiti SC', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:center;
+}
+._退出按钮（动作列表） {
+  font-family:'Heiti SC Light', 'Heiti SC', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#FF3300;
+  text-align:center;
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.shape {
+}
+._默认样式 {
+}
+._60号字_如金额展示、金额输入） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:30px;
+  text-align:left;
+}
+._图片1 {
+}
+.box_2 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.weui_font_light40pt {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:40px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_medium20pt {
+  font-size:20px;
+  color:#353535;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._24号字_最小说明文本，例如列表时间态、版权信息等） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.line {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.shape1 {
+}
+.ellipse {
+}
+.vertical_line {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+}
+._水平线 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+.weui_font_regular17pt {
+  font-size:17px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_regular18pt {
+  font-size:18px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_regular14pt {
+  font-size:14px;
+  color:#A0A0A0;
+  text-align:left;
+}
+.weui_font_regular13pt {
+  font-size:13px;
+  color:#576B95;
+  text-align:left;
+}
+.weui_font_regular11pt {
+  font-size:11px;
+  color:#B4B4B4;
+  text-align:left;
+}
+.weui_color_09bb07 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_353535 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_888888 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_576b95 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_background {
+  font-size:36px;
+  color:#B2B2B2;
+}
+.weui_color_576b95_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_576b95_disabled {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_09bb07_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_09bb07_disable {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340_disable {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_button_primary_normarl {
+  font-size:18px;
+  color:#FFFFFF;
+}
+.weui_button_primary_hl {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_primary_disabled {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.weui_button_default_normarl {
+  font-size:18px;
+  color:#000000;
+}
+.weui_button_default_hl {
+  font-size:18px;
+  color:rgba(0, 0, 0, 0.6);
+}
+.weui_button_default_disabled {
+  font-size:18px;
+  color:rgba(0, 0, 0, 0.298039215686275);
+}
+.weui_button_line_normarl {
+  font-size:18px;
+  color:#010101;
+}
+.weui_button_line_disabled {
+  font-size:18px;
+  color:rgba(1, 1, 1, 0.298039215686275);
+}
+.weui_button_line_hl {
+  font-size:18px;
+  color:rgba(1, 1, 1, 0.6);
+}
+.weui_button_line_second_normal {
+  font-size:18px;
+  color:#09BB07;
+}
+.weui_button_lline_second_hl {
+  font-size:18px;
+  color:rgba(9, 187, 7, 0.6);
+}
+.weui_button_primary_mini_normarl {
+  font-size:13px;
+  color:#FFFFFF;
+}
+.weui_button_primary_medium_normarl {
+  font-size:16px;
+  color:#FFFFFF;
+}
+.weui_button_primary_medium_hl {
+  font-size:16px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_primary_medium_disabled {
+  font-size:16px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_title_white_18pt {
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.weui_title_black_18pt {
+  font-size:18px;
+  color:#353535;
+  text-align:left;
+}
+.weui_face_bg {
+}
+.weui_face_title {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.weui_text_lines {
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:18px;
+}
+.weui_toast_bg {
+}
+.weui_font_popup_title_regular17pt {
+  font-size:17px;
+  color:#353535;
+  text-align:center;
+}
+.weui_font_popup_ok_btn {
+  font-size:17px;
+  color:#09BB07;
+  text-align:center;
+}
+.weui_font_popup_text_regular14pt {
+  font-size:14px;
+  color:#A0A0A0;
+  text-align:center;
+}
+.weui_img {
+}
+.weui_mask {
+  font-size:36px;
+  color:#B2B2B2;
+}
+.weui_font_label14pt {
+  font-size:14px;
+  color:#808080;
+  text-align:left;
+}
+._文本段落2 {
+  text-align:left;
+}
+._二级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
+._图片2 {
+  color:#000000;
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+._单选按钮 {
+  text-align:left;
+}
+._复选框 {
+  text-align:left;
+}
+._垂直线 {
+}
+._水平线1 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
+.flow_shape {
+}
+textarea, select, input, button { outline: none; }
